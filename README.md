@@ -1,6 +1,6 @@
 ### Chris Hewitt -- backend developer -- Denver, CO 
 ###### Programmer, musician, lover of the natural world. 
-###### Ya like jazz? Check out my music and thoughts [here:](http://www.goldenbullfrog.com/)
+###### Ya like jazz? Check out my music and thoughts [here.](http://www.goldenbullfrog.com/)
 
 
 <!--
