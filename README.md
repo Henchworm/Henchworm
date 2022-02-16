@@ -1,4 +1,7 @@
-### Hi there 👋
+### Chris Hewitt -- backend developer -- Denver, CO 
+###### Programmer, musician, lover of the natural world. 
+###### Ya like jazz? Check out my music and thoughts [here:][http://www.goldenbullfrog.com/]
+
 
 <!--
 **Henchworm/Henchworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
