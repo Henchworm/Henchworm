@@ -1,5 +1,5 @@
-### Chris Hewitt -- backend developer -- Denver, CO 
-###### Programmer, musician, lover of the natural world, lifelong student. Currently studying back end engineering at the Turing School of Software and design. 
+### Chris Hewitt | Backend Developer | Denver, CO 
+###### Programmer, musician, type II fun enthusiast and lifelong student. Currently studying back end engineering at the Turing School of Software and design. 
  
 ###### Ya like jazz? Check out my music and thoughts [here.](http://www.goldenbullfrog.com/)
 
