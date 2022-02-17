@@ -3,6 +3,7 @@
  
 ###### Ya like jazz? Check out my music and thoughts [here.](http://www.goldenbullfrog.com/)
 
+- I’m looking to collaborate with like minded creatives on applications that utilize Ruby on Rails, and expanding my knowledge into other frameworks and languages.  
 
 <!--
 **Henchworm/Henchworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
