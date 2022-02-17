@@ -3,7 +3,7 @@
  
 ###### Ya like jazz? Check out my music and thoughts [here.](http://www.goldenbullfrog.com/)
 
-######  I’m looking to collaborate with like minded creatives on applications that utilize Ruby on Rails. Always open to sharing ideas and building things. Concert tracker? TimeCube clone? I'm all ears. 
+######  I’m looking to collaborate with like minded creatives on applications that utilize Ruby on Rails. Always open to sharing ideas and building things. Artist tracker? TimeCube clone? I'm all ears. 
 ######  Drop me a line at agop5134@gmail.com. 
 
 <!--
