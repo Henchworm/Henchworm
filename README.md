@@ -4,7 +4,7 @@
 ###### Ya like jazz? Check out my music and thoughts [here.](http://www.goldenbullfrog.com/)
 
 ######  I’m looking to collaborate with like minded creatives on applications that utilize Ruby on Rails. Always open to sharing ideas and building things. 
-###### Drop me a line at agop5134 at gmail.com 
+######  Drop me a line at agop5134@gmail.com. 
 
 <!--
 **Henchworm/Henchworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
