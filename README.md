@@ -1,5 +1,5 @@
 ### Chris Hewitt | Backend Developer | Denver, CO 
-###### Programmer, musician, type II fun enthusiast and lifelong student. Currently studying back end engineering at the Turing School of Software and design. 
+###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby on Rails engineer at a FinTech startup. 
  
 ###### Ya like jazz? Check out my music and thoughts...when my new site is up(development is crankin!)
 
