@@ -1,5 +1,5 @@
 ### Chris Hewitt | Backend Developer | Denver, CO 
-###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby on Rails engineer at a FinTech startup. 
+###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby on Rails engineer...marignally employed. 
  
 ###### Ya like jazz? Check out my music and thoughts...when my new site is up(development is crankin!)
 
