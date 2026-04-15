@@ -1,9 +1,6 @@
 ### Chris Hewitt | Backend Developer | Denver, CO 
-###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby on Rails engineer...marignally employed. 
+###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby engineer and software educator. I've created 25 courses ranging from Ruby fundamentals, to deployment piplelines and Elastisearch. 
  
-###### Ya like jazz? Check out my music and thoughts...when my new site is up(development is crankin!)
-
-######  I’m looking to collaborate with like minded creatives on applications that utilize Ruby on Rails. Always open to sharing ideas and building things. Denver Mexican food database? Code-inspired compositions? TimeCube clone? I'm all ears. 
 ######  Drop me a line at agop5134@gmail.com. 
 
 <!--
