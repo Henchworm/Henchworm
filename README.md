@@ -1,5 +1,5 @@
 ### Chris Hewitt | Backend Developer | Denver, CO 
-###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby engineer and software educator. I've created 25 courses ranging from Ruby fundamentals, to deployment piplelines and Elastisearch. 
+###### Programmer, musician, type II fun enthusiast and lifelong student. Professional Ruby engineer and software educator. I've created 25 courses ranging from Ruby fundamentals, to deployment piplelines and Elastisearch, as well as worked on business critical applications in fiance, education, and music enviornments. 
  
 ######  Drop me a line at agop5134@gmail.com. 
 
